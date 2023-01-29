@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content:center;
+    background-color: darkgreen;
+    color: white;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+    height: 1.75em;
+    padding-top: 0.2em;
+}
+
+.footer a:link {
+    text-decoration: none;
+  }

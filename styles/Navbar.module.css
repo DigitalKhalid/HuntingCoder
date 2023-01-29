@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.25em;
+    background-color: green;
+    color: white;
+}
+
+.navbar li {
+    margin: 1em;
+}
+
+.navbar li:hover {
+    color: orange;
+}

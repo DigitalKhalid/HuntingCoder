@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Blog 1",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, quaerat. Sapiente totam, excepturi, ad aliquid harum neque eius fugit assumenda repellat inventore explicabo! Ipsum temporibus quos laborum modi eos, distinctio a laudantium ratione, mollitia quidem obcaecati cumque, commodi ea optio provident! Enim est mollitia quibusdam harum pariatur id rem perferendis nesciunt! Corrupti iste veritatis placeat culpa expedita magnam sed natus iure sint odit sit quam nemo porro, itaque, veniam amet temporibus a non. Repellendus enim aperiam a ipsum porro fugiat facere, culpa, quia cupiditate minus exercitationem voluptate dicta recusandae minima nostrum eaque similique accusantium voluptatibus expedita. Unde blanditiis nobis nemo!",
+        "author": "Waqas",
+        "date": "20-01-2023",
+        "published": "true"
+    },
+    {
+        "title": "Blog 2",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, quaerat. Sapiente totam, excepturi, ad aliquid harum neque eius fugit assumenda repellat inventore explicabo! Ipsum temporibus quos laborum modi eos, distinctio a laudantium ratione, mollitia quidem obcaecati cumque, commodi ea optio provident! Enim est mollitia quibusdam harum pariatur id rem perferendis nesciunt! Corrupti iste veritatis placeat culpa expedita magnam sed natus iure sint odit sit quam nemo porro, itaque, veniam amet temporibus a non. Repellendus enim aperiam a ipsum porro fugiat facere, culpa, quia cupiditate minus exercitationem voluptate dicta recusandae minima nostrum eaque similique accusantium voluptatibus expedita. Unde blanditiis nobis nemo!",
+        "author": "Awais",
+        "date": "20-09-2022",
+        "published": "true"
+    },
+    {
+        "title": "Blog 3",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, quaerat. Sapiente totam, excepturi, ad aliquid harum neque eius fugit assumenda repellat inventore explicabo! Ipsum temporibus quos laborum modi eos, distinctio a laudantium ratione, mollitia quidem obcaecati cumque, commodi ea optio provident! Enim est mollitia quibusdam harum pariatur id rem perferendis nesciunt! Corrupti iste veritatis placeat culpa expedita magnam sed natus iure sint odit sit quam nemo porro, itaque, veniam amet temporibus a non. Repellendus enim aperiam a ipsum porro fugiat facere, culpa, quia cupiditate minus exercitationem voluptate dicta recusandae minima nostrum eaque similique accusantium voluptatibus expedita. Unde blanditiis nobis nemo!",
+        "author": "Umair",
+        "date": "09-12-2022",
+        "published": "true"
+    },
+    {
+        "title": "Blog 4",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, quaerat. Sapiente totam, excepturi, ad aliquid harum neque eius fugit assumenda repellat inventore explicabo! Ipsum temporibus quos laborum modi eos, distinctio a laudantium ratione, mollitia quidem obcaecati cumque, commodi ea optio provident! Enim est mollitia quibusdam harum pariatur id rem perferendis nesciunt! Corrupti iste veritatis placeat culpa expedita magnam sed natus iure sint odit sit quam nemo porro, itaque, veniam amet temporibus a non. Repellendus enim aperiam a ipsum porro fugiat facere, culpa, quia cupiditate minus exercitationem voluptate dicta recusandae minima nostrum eaque similique accusantium voluptatibus expedita. Unde blanditiis nobis nemo!",
+        "author": "Natasha",
+        "date": "05-01-2023",
+        "published": "true"
+    }
+]
