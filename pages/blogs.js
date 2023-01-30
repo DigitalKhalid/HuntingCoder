@@ -1,13 +1,16 @@
 import React from 'react'
 import styles from '@/styles/Home.module.css'
 import Link from 'next/link'
-import blogs from '../data/blogs.json'
+// import blogs from '../data/blogs.json'
 
-const Blogs = () => {
+const Blogs = (props) => {
+    let { blogs } = props.blogs
+
     const myStyles = {
         textAlign: 'center',
         paddingBottom: '0.5em'
     }
+
 
     return (
         <main className={styles.main}>
@@ -18,6 +21,7 @@ const Blogs = () => {
                     {blogs.map((blog, index) => {
                         return (
                             <Link
+                                key={index}
                                 href={`blogpost/${blog.title}`}
                                 className={styles.card}
                             >
@@ -41,6 +45,16 @@ const Blogs = () => {
             </div>
         </main>
     )
+}
+
+export async function getServerSideProps(context) {
+    const url = 'http://localhost:3000/api/blogs'
+    const response = await fetch(url)
+    const blogs = await response.json()
+
+    return {
+        props: { blogs }, // will be passed to the page component as props
+    }
 }
 
 export default Blogs
